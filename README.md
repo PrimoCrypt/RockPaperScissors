@@ -1,2 +1,2 @@
 # RockPaperScissors
-ROck paper scissors task zuri
+Rock paper scissors task zuri
